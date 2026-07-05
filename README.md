@@ -34,8 +34,8 @@ It focuses on discovery and validation rather than exploitation. The direct CLI 
 ## Installation
 
 ```bash
-git clone https://github.com/NeiveZ/APIX.git
-cd APIX
+git clone https://github.com/NeiveZ/API-Security-Testing-Toolkit.git
+cd API-Security-Testing-Toolkit
 chmod +x apix.sh
 ./apix.sh --install
 ```
